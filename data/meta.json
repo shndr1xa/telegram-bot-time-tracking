@@ -1,0 +1,23 @@
+{
+  "693222513": {
+    "telegram_name": "pinq1pai",
+    "last_reminder_date": "2026-04-30",
+    "is_verified": true,
+    "full_name": "Шафнер Данил Алексеевич",
+    "employee_key": "EMP073"
+  },
+  "1173616756": {
+    "telegram_name": "Алик",
+    "last_reminder_date": "2026-04-30",
+    "is_verified": true,
+    "full_name": "Малыгин Альберт Валентинович",
+    "employee_key": "EMP074"
+  },
+  "1048087980": {
+    "telegram_name": "shndr",
+    "last_reminder_date": "2026-04-30",
+    "is_verified": true,
+    "full_name": "Шандер Саша-Ойген",
+    "employee_key": "EMP071"
+  }
+}
